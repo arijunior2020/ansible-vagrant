@@ -1,5 +1,5 @@
 # Ignore os arquivos de sistema do vagrant
-
+.vagrant
 
 # Ignore os arquivos de sistema do Git
 .git
