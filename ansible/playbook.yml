@@ -1,0 +1,11 @@
+- hosts: localhost
+  become: true
+  roles:
+    - nginx
+    - vim
+    - nmap
+    - curl
+    - telnetd
+    - unzip
+    - wget
+    - zabbix-agent

@@ -1,0 +1,4 @@
+---
+- name: install telnetd
+  apt:
+    name: telnetd
